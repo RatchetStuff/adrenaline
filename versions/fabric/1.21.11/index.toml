@@ -94,6 +94,11 @@ hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "29f8ec9100df1f57aed62201f7dfb37d0f7e614ec1446c831a7174e2ad66b4f1"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "3de84e5e30c3d96ac5491e04ed1f34a83a68c27c40120e6e8bea1f06c86bb31d"
 metafile = true
