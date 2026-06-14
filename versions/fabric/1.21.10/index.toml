@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
+hash = "584dd7457a612ddbbeb429fc4dc2b153807f2538423fd16cae1b92b6274ad296"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "ae4df7339a87050b5dd04597cf5c83fd4ffe038a7817ccf9a0b22a2245b5cf94"
+hash = "25b319070234be85e1f79404b307941e7a79e469b92aed35449143f643721c62"
 metafile = true
 
 [[files]]
@@ -145,5 +145,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "474f043166ffde3f438f3305701c0e15d8640e90be68c90f7d38bad97fc02128"
+hash = "248b3f74f15b8502faa1a03cb4f655b2ad6e901a9b96a58eae222a381bc5673f"
 metafile = true
