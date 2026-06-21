@@ -30,12 +30,12 @@ hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
+hash = "809cc13566b4d083a5c6242dafd94c14a65aecab3a8c28933bcbffef38bd9a79"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d8191c7ff64782b226c8689c168961f303b17638dded11522f25f0509db01c15"
+hash = "ccdf15227c1495a2756b74b8b569a5028d3f30cd4f01b02ea1afa7bd2b0bf841"
 metafile = true
 
 [[files]]
@@ -45,12 +45,12 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
+hash = "a87be91439cbbc4dff2db63b9efe0e6d1e054eb0e89c5e5c647d6f6f4152b35a"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
+hash = "21e4dce3451c95fd24222d0563a8bf62ff621b82770a6aec07563dc462eb1303"
 metafile = true
 
 [[files]]
@@ -65,12 +65,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "db13dae82b68302f3c545fa4893e21086e8809d4b01f3f1c7561309041101b4d"
+hash = "aea5ea551600e691b75fac9dfa02670dc70903d732746d90e0c3711b2e6c564a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
+hash = "120585e75f6fa06b138bbb3e681298113c66a084ebe842de3da91d21b5b5b3f9"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6aee3605cacd549fa2d966fd355588240580f8c67685ba8e759cd3a9e425e5b1"
+hash = "a826eb5620b44f763365baedb22075293191abf82b94353252c936f1e5e45959"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
+hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
+hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
 metafile = true
 
 [[files]]
@@ -140,12 +140,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "d1b451cf9def0e6aae91450ba5e966c1aa22480bd7274d5d8309cd1de5fe8108"
+hash = "8ab6fba4394b6b57cacec5dda3d2a73e70d0988676eb004865574df3fec96d7d"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "a699bfe2548067cd28d4a95d2c89a1d1ffa54fd5d90c19419f9037a8d6bf015a"
 metafile = true
 
 [[files]]
@@ -160,5 +160,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "6f1a5b0bcf0daa199fc2a45664a761ce9adc5e5dbbd15346620e777b3fbe6ae8"
+hash = "35448667757bd3218bf47149b17d0c6e8d76b75c8d78ce5249badf7bb03162a4"
 metafile = true
