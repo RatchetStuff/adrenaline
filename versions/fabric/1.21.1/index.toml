@@ -9,6 +9,10 @@ file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
+file = "config/modpack_defaults/config/enhanced_bes.properties"
+hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
+
+[[files]]
 file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
@@ -55,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -110,11 +119,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
-metafile = true
-
-[[files]]
-file = "mods/obe.pw.toml"
-hash = "878ac462b87b2d1ce74b190571ae3c14e580a8bcc6085834613787d064aac3fd"
 metafile = true
 
 [[files]]
