@@ -29,11 +29,6 @@ file = "config/modpack_defaults/options.txt"
 hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "584dd7457a612ddbbeb429fc4dc2b153807f2538423fd16cae1b92b6274ad296"
 metafile = true
@@ -111,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "1023896f91113c9882d04eca2b072d209bfff4d24e0a306fde992527b56d45ed"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "67bd3318bfc95470357c8424e46c9c5b50ec1cc611991438ea7afb595fe23836"
 metafile = true
 
 [[files]]

@@ -67,11 +67,6 @@ hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c03af903bde894a53ed6384ded823cadc41f6d0f8b8fe29b682d97dceb0e9ba6"
 metafile = true
@@ -129,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "0704b8ac961026eca017486553b2f00acaf4fcc5efedb95137d8fa5d240f1382"
 metafile = true
 
 [[files]]
