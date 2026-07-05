@@ -30,7 +30,7 @@ hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5f2734854eca45bc91f9fd673920754f2a70feffb881f8013646b171b71e8451"
+hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+hash = "3134dab02ee45b29c86d8ef5d7cd566088c570bc6901eec78a62b473319b9d07"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
+hash = "59d8a7808f69deae5bc1c17ed2db6c28cb231398681f6f7902ae7e92da229e1a"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "2e531dae9197fea52cc553bc6756544c1f4664784874741110294be2fd975fd6"
+hash = "cb4b411882267dfba9ab18f33d3fa69f3f4a545e996411000a3ed6315f3b8452"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "1d7f585eb2da2f8f5d026d05b6d3e52807cf59db2b5a7f130b2b13f2306da439"
+hash = "456ce305874b63a3673cc148a399318aec6797782b33c3dd180596c994dde145"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+hash = "ea57cf02ee51c57ed9c9b0fb42f12637d47e2e122eec8dbc34a8c4150bb4c952"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "8ab6fba4394b6b57cacec5dda3d2a73e70d0988676eb004865574df3fec96d7d"
+hash = "bb46896816463124ea003dbf41579b8f50dfb7b2df4c0f1cf895843248025736"
 metafile = true
 
 [[files]]
@@ -160,5 +160,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "35448667757bd3218bf47149b17d0c6e8d76b75c8d78ce5249badf7bb03162a4"
+hash = "9a385daeacdfffd9d35d574346ca5df6bc5ecdafa3bb2f9d22c45cfbdd9d550a"
 metafile = true
