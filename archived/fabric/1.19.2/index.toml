@@ -25,10 +25,6 @@ file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "63492d89a9d9f708e50417efb11b157232f360afca79890530d7e4b831f8d80c"
-
-[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
