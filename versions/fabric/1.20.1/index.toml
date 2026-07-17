@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b9706c6ff4b39cadf6ee32900be7c21cd37518b6c76365987c3074539901d8ef"
+hash = "afd8124610f1a4a137064eaf4d9b4d1164912d53adfc22728f0d16b869f59b57"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "67b6fdc33e6e3ae928b088e89a38ead2fb731e2e48e2090e6c4eb5f641d457d2"
+hash = "f9c8a8433db821eabc10542cc7a62bd53ad81fb8c998fa0e14f7dceec7f34832"
 metafile = true
 
 [[files]]

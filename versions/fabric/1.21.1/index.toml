@@ -9,10 +9,6 @@ file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "config/modpack_defaults/config/enhanced_bes.properties"
-hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
-
-[[files]]
 file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
@@ -38,7 +34,7 @@ hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "df4cedc4d44d7fe5b5fccdb38dfea506a0599700de1666f7936545cbaac4392e"
+hash = "0786d7525691577ddd6bfac75453fac8efa8fb98dbd5cbcd27d0632ca45dc93e"
 metafile = true
 
 [[files]]
@@ -62,18 +58,13 @@ hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "106208a40fcd18315e05d3e51f92511ee8f69be515032107859b3a0ad49a9f84"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b055e1997973e615d20848f0c7d0712ebad4aa24ab8a3ee6d9682ea53642309"
+hash = "40b692927ec3a10fc8b456e2deca2ae45d190e67baabc53758c839729a3f86c7"
 metafile = true
 
 [[files]]
@@ -93,12 +84,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
+hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b638186285073f2daf8a133460fe9edeb576cb06f74e73f4fc2756607cf07110"
+hash = "364e3a776803353e433c6fc9b9f8961ce32225da9503261c29f4a3b51d4a8656"
 metafile = true
 
 [[files]]
@@ -108,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
 
 [[files]]
@@ -119,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "9bc616875ff54aefcc6de7e394e397f4aace64f8bddb6c5d1c17af477e4d35e1"
 metafile = true
 
 [[files]]
@@ -143,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "92f9b5aee5962bfe3dc2bd511ae680601d7fab55ab615fbebdaed8b7ccf66392"
+hash = "794871c20bc24ba3ae5e35225f57b98cc139dddfad27eb525b366f209a95387a"
 metafile = true
 
 [[files]]
