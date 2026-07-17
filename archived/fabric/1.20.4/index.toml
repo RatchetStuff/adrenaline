@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -154,5 +154,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "c5b66cb75b425a4cc58a3a143100fd88e1d670d76362f603dbd883d244de5934"
+hash = "b7dd12c30fe20b89b1eee30e8ce49c4b8fcce8a0b466ab2419b5df0e63d85b63"
 metafile = true
